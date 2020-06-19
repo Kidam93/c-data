@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1545382869 source:c:\users\kidam\desktop\langage c cours\a-formation\langage c #17 - piles\main.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1545382896 c:\users\kidam\desktop\langage c cours\a-formation\langage c #17 - piles\main.c\stack.h
+
+1545396676 source:c:\users\kidam\desktop\langage c cours\a-formation\langage c #17 - piles\main.c\stack.c
+	"stack.h"
+	<stdio.h>
+	<stdlib.h>
+

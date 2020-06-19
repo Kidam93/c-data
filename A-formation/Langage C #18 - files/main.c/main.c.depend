@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1545404031 source:c:\users\kidam\desktop\langage c cours\a-formation\langage c #18 - files\main.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1545404146 c:\users\kidam\desktop\langage c cours\a-formation\langage c #18 - files\main.c\queue.h
+
